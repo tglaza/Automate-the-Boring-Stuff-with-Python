@@ -8,7 +8,7 @@
 def hello(): #def statement defines the new function
 #the code below is called the body of the function
     print('Howdy!')
-    print('Howdy!!!')
+    print('Howdy partner!!!')
     print('Hello there.')
 
 #this calls the hello function 3 times
